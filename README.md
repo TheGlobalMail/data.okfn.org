@@ -1,4 +1,4 @@
-The code behind <http://data.okfn.org>.
+The code behind <http://data.theglobalmail.org> forked from the code that runs <http://data.okfn.org>.
 
 Core is an ultra-lightweight Data Hub running off [data packages][dp].
 
